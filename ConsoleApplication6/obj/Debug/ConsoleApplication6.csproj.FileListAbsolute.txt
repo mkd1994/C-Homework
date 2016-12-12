@@ -1,0 +1,5 @@
+c:\users\mkd\documents\visual studio 2013\Projects\Homework 13.12.16\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\mkd\documents\visual studio 2013\Projects\Homework 13.12.16\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\mkd\documents\visual studio 2013\Projects\Homework 13.12.16\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\mkd\documents\visual studio 2013\Projects\Homework 13.12.16\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\mkd\documents\visual studio 2013\Projects\Homework 13.12.16\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
