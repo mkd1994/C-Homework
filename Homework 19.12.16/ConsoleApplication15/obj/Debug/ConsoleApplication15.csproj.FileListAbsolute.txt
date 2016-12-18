@@ -1,0 +1,6 @@
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb

@@ -1,0 +1,5 @@
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\MKD\documents\visual studio 2013\Projects\Homework 19.12.16\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
