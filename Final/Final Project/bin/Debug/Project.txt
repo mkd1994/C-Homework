@@ -1,0 +1,4 @@
+Bulgaria|Sofia|7000000
+Macedoina|Skopie|4000000
+USA|Washington|350000000
+Spain|Madrid|15000000
