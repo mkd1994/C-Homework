@@ -1,0 +1,6 @@
+c:\users\mkd\documents\visual studio 2013\Projects\Homework Exceptions\Homework Exceptions\bin\Debug\Homework Exceptions.exe.config
+c:\users\mkd\documents\visual studio 2013\Projects\Homework Exceptions\Homework Exceptions\bin\Debug\Homework Exceptions.exe
+c:\users\mkd\documents\visual studio 2013\Projects\Homework Exceptions\Homework Exceptions\bin\Debug\Homework Exceptions.pdb
+c:\users\mkd\documents\visual studio 2013\Projects\Homework Exceptions\Homework Exceptions\obj\Debug\Homework Exceptions.csprojResolveAssemblyReference.cache
+c:\users\mkd\documents\visual studio 2013\Projects\Homework Exceptions\Homework Exceptions\obj\Debug\Homework Exceptions.exe
+c:\users\mkd\documents\visual studio 2013\Projects\Homework Exceptions\Homework Exceptions\obj\Debug\Homework Exceptions.pdb

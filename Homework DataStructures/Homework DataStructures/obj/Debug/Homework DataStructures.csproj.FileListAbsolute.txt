@@ -1,0 +1,6 @@
+c:\users\mkd\documents\visual studio 2013\Projects\Homework DataStructures\Homework DataStructures\bin\Debug\Homework DataStructures.exe.config
+c:\users\mkd\documents\visual studio 2013\Projects\Homework DataStructures\Homework DataStructures\bin\Debug\Homework DataStructures.exe
+c:\users\mkd\documents\visual studio 2013\Projects\Homework DataStructures\Homework DataStructures\bin\Debug\Homework DataStructures.pdb
+c:\users\mkd\documents\visual studio 2013\Projects\Homework DataStructures\Homework DataStructures\obj\Debug\Homework DataStructures.csprojResolveAssemblyReference.cache
+c:\users\mkd\documents\visual studio 2013\Projects\Homework DataStructures\Homework DataStructures\obj\Debug\Homework DataStructures.exe
+c:\users\mkd\documents\visual studio 2013\Projects\Homework DataStructures\Homework DataStructures\obj\Debug\Homework DataStructures.pdb
